@@ -3,6 +3,7 @@
 ## About RestaurantApp
 
 RestaurantApp is a web application that is used for restuarant management. The application is developed from many types of tools such as:
+
 -HTML, CSS, Javascrit
 -Jquery
 -Boostrap
