@@ -1,0 +1,34 @@
+a {
+    color: #343a40;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #343a40;
+}
+
+.mainfunction-item {
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.mainfunction-item:hover {
+    background-color: #f7f7f7;
+}
+.btn-menu img {
+    height: 100px;
+    width: 100px;
+}
+.btn-menu {
+    background-color: #222222;
+    padding: 15px;
+    margin-bottom: 15px;
+    color: white;
+    cursor: pointer;
+}
+
+#table-detail {
+    border: 1px solid #dee2e6;
+    background-color: #dee2e6;
+    padding: 10px;
+}
